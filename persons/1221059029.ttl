@@ -13,4 +13,5 @@
 
 <urn:uuid:persons/1221059029> schema:familyName "Peter";
     schema:givenName "Petersen";
+    schema:gender "male";
     a melod:Person.
