@@ -1,0 +1,3 @@
+@prefix : <http://example.org/> .
+:TestPerson a :Person ;
+  :name "Test Person" .
