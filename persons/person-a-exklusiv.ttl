@@ -1,2 +1,0 @@
-@prefix : <http://example.org/> .
-:PersonA a :Person ; :name "Nur Person A bearbeitet diese Datei" .
