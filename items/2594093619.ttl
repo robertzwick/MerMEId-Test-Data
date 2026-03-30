@@ -14,7 +14,7 @@
 @prefix dct: <http://purl.org/dc/terms/>.
 @prefix skos: <http://www.w3.org/2004/02/skos/core#>.
 
-<urn:uuid:2594093619> rdfs:label "D-Bsa SA 60";
+<urn:uuid:2594093619> rdfs:label "D-Bsa SA 6";
     owl:sameAs <https://resolver.staatsbibliothek-berlin.de/SBB000347F900000000>;
     cidoc:P50_has_current_keeper <urn:uuid:901685163>;
     melod:hasShelfmark "SA 601";
