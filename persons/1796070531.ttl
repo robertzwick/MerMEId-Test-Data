@@ -11,6 +11,6 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#>.
 @prefix cidoc: <http://www.cidoc-crm.org/cidoc-crm/>.
 
-<urn:uuid:persons/1796070531> schema:familyName "Larson";
+<urn:uuid:persons/1796070531> schema:familyName "Lars";
     schema:givenName "Klarso";
     a melod:Person.
