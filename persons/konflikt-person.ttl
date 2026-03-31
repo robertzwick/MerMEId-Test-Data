@@ -1,2 +1,0 @@
-@prefix : <http://example.org/> .
-:PersonA a :Person ; :name "Person A war zuerst hier" .
