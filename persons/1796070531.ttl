@@ -12,5 +12,5 @@
 @prefix cidoc: <http://www.cidoc-crm.org/cidoc-crm/>.
 
 <urn:uuid:persons/1796070531> schema:familyName "Larson";
-    schema:givenName "Klarson";
+    schema:givenName "Klarso";
     a melod:Person.
