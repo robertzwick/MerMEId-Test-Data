@@ -27,3 +27,5 @@ _:fbcfea7a-195e-44a2-9b12-b55c6c546743 rdfs:label "TVWV";
 _:dbcc87ac-f346-4397-ba86-36d76956dc35 rdfs:label "Zugehörigkeit";
     a melod:Identifier;
     owl:hasValue "MusLG-09".
+
+# Geändert durch Integrationstest
